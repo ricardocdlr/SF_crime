@@ -1,0 +1,693 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "jhsu-2pka",
+      "name" : "Health Care Facilities",
+      "averageRating" : 0,
+      "category" : "Health and Social Services",
+      "createdAt" : 1455310580,
+      "description" : "Health care facilities located in San Francisco",
+      "displayType" : "table",
+      "downloadCount" : 52,
+      "indexUpdatedAt" : 1455330958,
+      "licenseId" : "PDDL",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 17733684,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1455311031,
+      "publicationGroup" : 8005873,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1455310990,
+      "rowsUpdatedBy" : "s7k8-df3k",
+      "tableId" : 8005938,
+      "totalTimesRated" : 0,
+      "viewCount" : 77,
+      "viewLastModified" : 1458063729,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 242175681,
+        "name" : "UID",
+        "dataTypeName" : "text",
+        "description" : "Unique row ID - system generated",
+        "fieldName" : "uid",
+        "position" : 1,
+        "renderTypeName" : "text",
+        "tableColumnId" : 34365846,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : "0",
+          "null" : 0,
+          "largest" : "9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "41"
+          }, {
+            "count" : 19,
+            "item" : "42"
+          }, {
+            "count" : 18,
+            "item" : "43"
+          }, {
+            "count" : 17,
+            "item" : "44"
+          }, {
+            "count" : 16,
+            "item" : "45"
+          }, {
+            "count" : 15,
+            "item" : "46"
+          }, {
+            "count" : 14,
+            "item" : "47"
+          }, {
+            "count" : 13,
+            "item" : "48"
+          }, {
+            "count" : 12,
+            "item" : "49"
+          }, {
+            "count" : 11,
+            "item" : "50"
+          }, {
+            "count" : 10,
+            "item" : "51"
+          }, {
+            "count" : 9,
+            "item" : "52"
+          }, {
+            "count" : 8,
+            "item" : "53"
+          }, {
+            "count" : 7,
+            "item" : "54"
+          }, {
+            "count" : 6,
+            "item" : "55"
+          }, {
+            "count" : 5,
+            "item" : "56"
+          }, {
+            "count" : 4,
+            "item" : "57"
+          }, {
+            "count" : 3,
+            "item" : "58"
+          }, {
+            "count" : 2,
+            "item" : "59"
+          }, {
+            "count" : 1,
+            "item" : "60"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 242175680,
+        "name" : "OSHPD_ID",
+        "dataTypeName" : "text",
+        "fieldName" : "oshpd_id",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 34365754,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : "0",
+          "null" : 0,
+          "largest" : "306384222",
+          "top" : [ {
+            "count" : 20,
+            "item" : "306382725"
+          }, {
+            "count" : 19,
+            "item" : "306384163"
+          }, {
+            "count" : 18,
+            "item" : "306380924"
+          }, {
+            "count" : 17,
+            "item" : "306384219"
+          }, {
+            "count" : 16,
+            "item" : "306381330"
+          }, {
+            "count" : 15,
+            "item" : "306384025"
+          }, {
+            "count" : 14,
+            "item" : "306384221"
+          }, {
+            "count" : 13,
+            "item" : "306384201"
+          }, {
+            "count" : 12,
+            "item" : "306384174"
+          }, {
+            "count" : 11,
+            "item" : "306381339"
+          }, {
+            "count" : 10,
+            "item" : "306384208"
+          }, {
+            "count" : 9,
+            "item" : "306384183"
+          }, {
+            "count" : 8,
+            "item" : "306384211"
+          }, {
+            "count" : 7,
+            "item" : "306384220"
+          }, {
+            "count" : 6,
+            "item" : "0"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "false"
+        }
+      }, {
+        "id" : 242175605,
+        "name" : "Facility Name",
+        "dataTypeName" : "text",
+        "fieldName" : "facility_name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 34365755,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : "3rd Street Youth Center & Clinic",
+          "null" : 0,
+          "largest" : "Women's Health Center",
+          "top" : [ {
+            "count" : 20,
+            "item" : "On Lok Senior Health Services - Powell"
+          }, {
+            "count" : 19,
+            "item" : "On Lok Senior Health Services-mission Center"
+          }, {
+            "count" : 18,
+            "item" : "Planned Parenthood Golden Gate"
+          }, {
+            "count" : 17,
+            "item" : "Planned Parenthood San Francisco Center"
+          }, {
+            "count" : 16,
+            "item" : "Richmond Maxi-center"
+          }, {
+            "count" : 15,
+            "item" : "San Francisco Free Clinic"
+          }, {
+            "count" : 14,
+            "item" : "South Of Market Health Center"
+          }, {
+            "count" : 13,
+            "item" : "St. Anthony Medical Clinic"
+          }, {
+            "count" : 12,
+            "item" : "St. James Infirmary"
+          }, {
+            "count" : 11,
+            "item" : "St. Luke's Health Care Center - Adult Clinic"
+          }, {
+            "count" : 10,
+            "item" : "St. Luke's Health Care Center - Pediatric Clinic"
+          }, {
+            "count" : 9,
+            "item" : "St. Luke's Health Care Center - Women's Clinic"
+          }, {
+            "count" : 8,
+            "item" : "Asian & Pacific Islander Wellness Center"
+          }, {
+            "count" : 7,
+            "item" : "Woman's Community Clinic/tides Center"
+          }, {
+            "count" : 6,
+            "item" : "Castro-mission Health Center"
+          }, {
+            "count" : 5,
+            "item" : "Children's Health Center At Sfgh"
+          }, {
+            "count" : 4,
+            "item" : "Chinatown Health Center"
+          }, {
+            "count" : 3,
+            "item" : "Family Health Center At Sfgh"
+          }, {
+            "count" : 2,
+            "item" : "General Medical Clinic At Sfgh"
+          }, {
+            "count" : 1,
+            "item" : "Maxine Hall Health Center"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 242175606,
+        "name" : "Facility Type",
+        "dataTypeName" : "text",
+        "fieldName" : "facility_type",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 34365756,
+        "width" : 256,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : "Community Clinic",
+          "null" : 0,
+          "largest" : "General Acute Care Hospital",
+          "top" : [ {
+            "count" : 20,
+            "item" : "General Acute Care Hospital"
+          }, {
+            "count" : 19,
+            "item" : "Community Clinic"
+          }, {
+            "count" : 18,
+            "item" : "Free Clinic"
+          }, {
+            "count" : 17,
+            "item" : "Community Health Network"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 242175607,
+        "name" : "Services",
+        "dataTypeName" : "text",
+        "fieldName" : "services",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 34365757,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : " ",
+          "null" : 0,
+          "largest" : "Youth Health",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Hospital"
+          }, {
+            "count" : 19,
+            "item" : "Senior Health"
+          }, {
+            "count" : 18,
+            "item" : "Sexual Health Clinic"
+          }, {
+            "count" : 17,
+            "item" : "Drug Treatment"
+          }, {
+            "count" : 16,
+            "item" : "General Health"
+          }, {
+            "count" : 15,
+            "item" : "Womens Health"
+          }, {
+            "count" : 14,
+            "item" : "Free General Health"
+          }, {
+            "count" : 13,
+            "item" : "Cultural General Health"
+          }, {
+            "count" : 12,
+            "item" : "Mental Health"
+          }, {
+            "count" : 11,
+            "item" : "Family General Health"
+          }, {
+            "count" : 10,
+            "item" : "Youth Health"
+          }, {
+            "count" : 9,
+            "item" : " "
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 242175608,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 6,
+        "renderTypeName" : "location",
+        "tableColumnId" : 34365758,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 78,
+          "smallest" : {
+            "longitude" : "-122.43982883",
+            "latitude" : "37.72207048",
+            "human_address" : "{\"address\":\"1000 Cayuga Ave\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-122.4358177",
+            "latitude" : "37.76905419",
+            "human_address" : "{\"address\":\"CASTRO AND DUBOCE STREETS\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-122.41037284",
+              "latitude" : "37.79788399",
+              "human_address" : "{\"address\":\"1441 POWELL STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-122.43329371",
+              "latitude" : "37.72674014",
+              "human_address" : "{\"address\":\"4430 MISSION STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-122.42154565",
+              "latitude" : "37.78276346",
+              "human_address" : "{\"address\":\"815 EDDY STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-122.42012355",
+              "latitude" : "37.74611894",
+              "human_address" : "{\"address\":\"1650 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-122.49761417",
+              "latitude" : "37.77575714",
+              "human_address" : "{\"address\":\"3626 BALBOA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-122.47009063",
+              "latitude" : "37.78458778",
+              "human_address" : "{\"address\":\"4900 CALIFORNIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-122.40888641",
+              "latitude" : "37.77766069",
+              "human_address" : "{\"address\":\"229 7TH STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-122.41317234",
+              "latitude" : "37.78197735",
+              "human_address" : "{\"address\":\"150 GOLDEN GATE AVE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-122.41557678",
+              "latitude" : "37.77561778",
+              "human_address" : "{\"address\":\"1372 MISSION ST.\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-122.42023356",
+              "latitude" : "37.7475674",
+              "human_address" : "{\"address\":\"1580 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-122.42023356",
+              "latitude" : "37.7475674",
+              "human_address" : "{\"address\":\"1580 VALENCIA ST\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-122.41919042",
+              "latitude" : "37.78358665",
+              "human_address" : "{\"address\":\"730 POLK STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-122.43338309",
+              "latitude" : "37.7865244",
+              "human_address" : "{\"address\":\"1833 FILLMORE STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-122.43184067",
+              "latitude" : "37.76271772",
+              "human_address" : "{\"address\":\"3850 17th Street&Acirc;&nbsp;\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-122.40619566",
+              "latitude" : "37.75577951",
+              "human_address" : "{\"address\":\"1001 Potrero Ave\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-122.41177222",
+              "latitude" : "37.79693062",
+              "human_address" : "{\"address\":\"1490 Mason Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 4,
+            "item" : {
+              "longitude" : "-122.4066315",
+              "latitude" : "37.75690321",
+              "human_address" : "{\"address\":\"995 Potrero Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 3,
+            "item" : {
+              "longitude" : "-122.43586943",
+              "latitude" : "37.781938",
+              "human_address" : "{\"address\":\"1301 Pierce Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 2,
+            "item" : {
+              "longitude" : "-122.48249495",
+              "latitude" : "37.76238083",
+              "human_address" : "{\"address\":\"1351 24th Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 1,
+            "item" : {
+              "longitude" : "-122.39873528",
+              "latitude" : "37.75427069",
+              "human_address" : "{\"address\":\"1050 Wisconsin Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "disabledFeatureFlags" : [ "allow_comments" ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Open Data Commons Public Domain Dedication and License",
+        "termsLink" : "http://opendatacommons.org/licenses/pddl/1.0/"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Detailed Descriptive" : {
+            "Data notes" : "",
+            "Geographic unit" : "Latitude/longitude",
+            "Program link" : ""
+          },
+          "Publishing Details" : {
+            "Data change frequency" : "As needed",
+            "Publishing frequency" : "As needed"
+          },
+          "Department Metrics" : {
+            "Publishing Department" : "Public Health"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rowLabel" : "Row"
+      },
+      "owner" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "roleName" : "publisher",
+        "screenName" : "OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_sdp", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "dbag-6qd9",
+        "displayName" : "OpenData",
+        "roleName" : "publisher",
+        "screenName" : "OpenData",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_sdp", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "manage_provenance", "view_story", "view_unpublished_story", "view_all_dataset_status_logs" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "0496B85A-F997-4415-9D84-C1704D491E18", 1, 1455310978, "847580", 1455310978, "847580", null, "0", "106380826", "California Pacific Med Ctr-california East", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"3698 SACRAMENTO STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.787402319999998", "-122.453549499999990", null, false ] ]
+, [ 2, "DB3AC7BD-BFDA-49CE-8C73-B39EDC890641", 2, 1455310978, "847580", 1455310978, "847580", null, "1", "106380777", "California Pacific Med Ctr-california West", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"3700 CALIFORNIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.786144059999998", "-122.455911660000000", null, false ] ]
+, [ 3, "CB7552B1-8C8D-4A2A-B1F9-B5696E3AD33A", 3, 1455310978, "847580", 1455310978, "847580", null, "2", "106380933", "California Pacific Med Ctr-davies Campus", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"CASTRO AND DUBOCE STREETS\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.769054189999999", "-122.435817700000000", null, false ] ]
+, [ 4, "8990027F-6464-473F-BF1D-A3D03B821677", 4, 1455310978, "847580", 1455310978, "847580", null, "3", "106380929", "California Pacific Med Ctr-pacific Campus", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"2333 BUCHANAN STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.791424440000000", "-122.431037550000000", null, false ] ]
+, [ 5, "9D0C0690-EF6F-4279-98C1-CCBCA872A908", 5, 1455310978, "847580", 1455310978, "847580", null, "4", "106380964", "California Pacific Medical Center - St. Luke's Campus", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"3555 CESAR CHAVEZ STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.748042959999999", "-122.421248850000000", null, false ] ]
+, [ 6, "D05C3210-0B7D-4014-B936-510D4C3A18BA", 6, 1455310978, "847580", 1455310978, "847580", null, "5", "106382715", "Chinese Hospital", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"845 JACKSON STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.795662090000000", "-122.409172330000000", null, false ] ]
+, [ 7, "5B5E8E6A-A3F5-44CA-B622-72D009B417F4", 7, 1455310978, "847580", 1455310978, "847580", null, "6", "106380857", "Kaiser Fnd Hosp - San Francisco", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"2425 GEARY BOULEVARD\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.782683239999997", "-122.443706760000000", null, false ] ]
+, [ 8, "C520CE3C-61B6-48D9-A4B8-592386568072", 8, 1455310978, "847580", 1455310978, "847580", null, "7", "106380865", "Laguna Honda Hospital And Rehabilitation Center", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"375 LAGUNA HONDA BOULEVARD\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.747625730000003", "-122.458717789999990", null, false ] ]
+, [ 9, "E8BE80AF-AD7A-4227-BDA5-842BA5BE3E35", 9, 1455310978, "847580", 1455310978, "847580", null, "8", "106380939", "San Francisco General Hospital", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"1001 POTRERO AVENUE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.756063630000000", "-122.407719720000000", null, false ] ]
+, [ 10, "AAC57A98-0410-4947-A810-91586A98CDED", 10, 1455310978, "847580", 1455310978, "847580", null, "9", "106380960", "St. Francis Memorial Hospital", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"900 HYDE STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.789567980000001", "-122.417066210000000", null, false ] ]
+, [ 11, "0ED4FDFD-0BA6-494E-8285-42BF0A4B64E8", 11, 1455310978, "847580", 1455310978, "847580", null, "10", "106380965", "St. Mary's Medical Center, San Francisco", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"450 STANYAN STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.773804490000003", "-122.454406789999990", null, false ] ]
+, [ 12, "28D246DE-95C1-4223-9A7F-806528A98ADA", 12, 1455310978, "847580", 1455310978, "847580", null, "11", "106381154", "Ucsf Medical Center", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"505 PARNASSUS AVENUE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.763367340000002", "-122.458567380000010", null, false ] ]
+, [ 13, "03FE6567-2BCE-4EEC-9D00-1270F2974582", 13, 1455310978, "847580", 1455310978, "847580", null, "12", "106380895", "Ucsf Medical Center At Mount Zion", "General Acute Care Hospital", "Hospital", [ "{\"address\":\"1600 DIVISADERO STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.784776860000001", "-122.439725810000000", null, false ] ]
+, [ 14, "AB2880DF-FFCC-4B79-B689-37DAE556638F", 14, 1455310978, "847580", 1455310978, "847580", null, "13", "306384044", "On Lok 30th Street Community Center", "Community Clinic", "Senior Health", [ "{\"address\":\"225 30TH STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.742152879999999", "-122.425108339999990", null, false ] ]
+, [ 15, "49EB50C6-B5BA-4272-A390-500BBE294042", 15, 1455310978, "847580", 1455310978, "847580", null, "14", "306384180", "Ahf Healthcare Center - San Francisco", "Community Clinic", "Sexual Health Clinic", [ "{\"address\":\"1025 HOWARD STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.779187010000001", "-122.407791059999990", null, false ] ]
+, [ 16, "88FD8EA9-AAA9-4532-A026-5BEDC74661C7", 16, 1455310978, "847580", 1455310978, "847580", null, "15", "306384166", "Baart Market Clinic", "Community Clinic", "Drug Treatment", [ "{\"address\":\"1111 MARKET STREET, 1ST FLOOR\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.780217200000003", "-122.412790750000000", null, false ] ]
+, [ 17, "25A3A4A0-9873-46E4-8D85-FFF2847D8CF4", 17, 1455310978, "847580", 1455310978, "847580", null, "16", "306384192", "Baart Turk Street Clinic", "Community Clinic", "Drug Treatment", [ "{\"address\":\"433 TURK STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.782463229999998", "-122.416346570000000", null, false ] ]
+, [ 18, "E3CAB390-961C-47BE-9132-755298409244", 18, 1455310978, "847580", 1455310978, "847580", null, "17", "306384154", "Chinese Community Health Services", "Community Clinic", "General Health", [ "{\"address\":\"1800 31ST AVENUE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.753412779999998", "-122.489274630000000", null, false ] ]
+, [ 19, "E2254CE7-3D1C-46B2-8274-335348F45045", 19, 1455310978, "847580", 1455310978, "847580", null, "18", "306384182", "Chinese Hospital's Excelsior Health Services", "Community Clinic", "General Health", [ "{\"address\":\"888 PARIS STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.715826460000002", "-122.439401020000010", null, false ] ]
+, [ 20, "5B6E9019-7F1C-4E0E-ADF2-982BE98E1930", 20, 1455310978, "847580", 1455310978, "847580", null, "19", "306382735", "Curry Senior Center", "Community Clinic", "Senior Health", [ "{\"address\":\"333 TURK STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.782670539999998", "-122.414581620000010", null, false ] ]
+, [ 21, "B47D7640-4D7C-4C09-9C44-39C1150327AE", 21, 1455310978, "847580", 1455310978, "847580", null, "20", "306381276", "Drug Detoxification, Rehab And After Care Svs. Prog.", "Free Clinic", "Drug Treatment", [ "{\"address\":\"529 CLAYTON STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.770294610000001", "-122.448703020000000", null, false ] ]
+, [ 22, "1C274E43-5444-4B8D-8C42-3774E5CB9A07", 22, 1455310978, "847580", 1455310978, "847580", null, "21", "306384194", "First Resort", "Community Clinic", "Womens Health", [ "{\"address\":\"450 SUTTER ST., STE. 1740\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.789347970000001", "-122.407783040000000", null, false ] ]
+, [ 23, "DC9B7E01-E299-44E6-8AC7-6C59DAFB132A", 23, 1455310978, "847580", 1455310978, "847580", null, "22", "306384165", "Glide Health Services", "Community Clinic", "General Health", [ "{\"address\":\"330 ELLIS STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.785094970000003", "-122.411649530000010", null, false ] ]
+, [ 24, "6DBCA0A8-0E59-4B23-B7BE-36354049EBEE", 24, 1455310978, "847580", 1455310978, "847580", null, "23", "306380827", "Haight Ashbury Free Medical Clinic", "Free Clinic", "Free General Health", [ "{\"address\":\"558 CLAYTON STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.770191550000000", "-122.448580440000000", null, false ] ]
+, [ 25, "D8FBDC2B-66A0-489B-B817-F3E2BE84540A", 25, 1455310978, "847580", 1455310978, "847580", null, "24", "306384196", "Haight Ashbury Integrated Care Center", "Community Clinic", "Free General Health", [ "{\"address\":\"1735 MISSION ST\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.769483800000003", "-122.419917500000000", null, false ] ]
+, [ 26, "31635A66-DAD7-42E9-ACBB-84D177592AF3", 26, 1455310978, "847580", 1455310978, "847580", null, "25", "306384158", "Institute On Aging", "Community Clinic", "Senior Health", [ "{\"address\":\"2700 GEARY BLVD.\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.782467810000000", "-122.448343190000000", null, false ] ]
+, [ 27, "0311524C-B1B7-4F28-8BEC-7A6A40B3F856", 27, 1455310978, "847580", 1455310978, "847580", null, "26", "306382737", "Instituto Familiar De La Raza - Outpatient", "Community Clinic", "Cultural General Health", [ "{\"address\":\"2919 MISSION STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.750343710000003", "-122.418195510000000", null, false ] ]
+, [ 28, "6EEFF91E-8FFC-4AC4-9408-AC8E3BF5F635", 28, 1455310978, "847580", 1455310978, "847580", null, "27", "306384222", "Lifeways Pace At The Coronet", "Community Clinic", "General Health", [ "{\"address\":\"3575 GEARY BLVD\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.781233640000004", "-122.457667620000000", null, false ] ]
+, [ 29, "AFBBEFA6-4736-4083-BBCC-DC8384E0ABFD", 29, 1455310978, "847580", 1455310978, "847580", null, "28", "306382714", "Lyon-martin Womens Health Services", "Community Clinic", "Womens Health", [ "{\"address\":\"1748 MARKET STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.772401940000002", "-122.422812350000000", null, false ] ]
+, [ 30, "82987A3F-DB6A-4582-9E29-BDBB6D1EB95D", 30, 1455310978, "847580", 1455310978, "847580", null, "29", "306382736", "Merriouns Psychological Institute", "Community Clinic", "Mental Health", [ "{\"address\":\"242 MYRTLE STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.785181510000001", "-122.422043910000000", null, false ] ]
+, [ 31, "466ED74B-2FB6-4F36-8BCE-656DF2AA34FB", 31, 1455310978, "847580", 1455310978, "847580", null, "30", "306380891", "Mission Neighborhood Health Center", "Community Clinic", "Cultural General Health", [ "{\"address\":\"240 SHOTWELL STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.764727680000000", "-122.416353439999990", null, false ] ]
+, [ 32, "F3DB0EFD-CCD6-42E1-99EB-E31BA99818A2", 32, 1455310978, "847580", 1455310978, "847580", null, "31", "306384212", "Mission Neighborhood Health Center - Valencia Clinic", "Community Clinic", "Cultural General Health", [ "{\"address\":\"1647 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.747000149999998", "-122.420080100000010", null, false ] ]
+, [ 33, "00D7E129-3F39-4FB6-B828-C86F907BAFA3", 33, 1455310978, "847580", 1455310978, "847580", null, "32", "306384045", "Mission Neighborhood Health Ctr.-excelsior Clinic", "Community Clinic", "Cultural General Health", [ "{\"address\":\"4434 MISSION STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.726681579999997", "-122.433376749999990", null, false ] ]
+, [ 34, "98921241-E566-411B-B2E3-00B9DAEC96FD", 34, 1455310978, "847580", 1455310978, "847580", null, "33", "306384214", "Mission Neighborhood Resource Center", "Community Clinic", "Cultural General Health", [ "{\"address\":\"165 CAPP ST\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.764034400000000", "-122.418554770000000", null, false ] ]
+, [ 35, "273591D4-12BC-4BD2-AEAE-0C6A4272A4CC", 35, 1455310978, "847580", 1455310978, "847580", null, "34", "306380896", "Native American Health Center", "Community Clinic", "Cultural General Health", [ "{\"address\":\"160 CAPP STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.764117329999998", "-122.418665090000000", null, false ] ]
+, [ 36, "74C0F5C1-ED95-45DE-99FA-315FDE7BC6F5", 36, 1455310978, "847580", 1455310978, "847580", null, "35", "306382711", "North East Medical Services", "Community Clinic", "Cultural General Health", [ "{\"address\":\"1520 STOCKTON STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.799897389999998", "-122.409025230000000", null, false ] ]
+, [ 37, "FF91CCDE-0858-4D78-AE32-5FACFD9AD672", 37, 1455310978, "847580", 1455310978, "847580", null, "36", "306384210", "North East Medical Services - Noriega", "Community Clinic", "Cultural General Health", [ "{\"address\":\"1450 NORIEGA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.754127840000002", "-122.479400160000000", null, false ] ]
+, [ 38, "B6B2FD8B-45EE-4E15-BD7D-96352E73DB60", 38, 1455310978, "847580", 1455310978, "847580", null, "37", "306384207", "North East Medical Services - San Bruno Avenue", "Community Clinic", "Cultural General Health", [ "{\"address\":\"2574 SAN BRUNO AVE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.729088150000003", "-122.404260450000000", null, false ] ]
+, [ 39, "A395296F-37ED-485F-B55D-8FE5C2EB397C", 39, 1455310978, "847580", 1455310978, "847580", null, "38", "306384053", "North East Medical Services-leland Avenue", "Community Clinic", "Cultural General Health", [ "{\"address\":\"82 LELAND AVENUE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.711827020000001", "-122.405249389999990", null, false ] ]
+, [ 40, "DE77D1A5-FBF2-4E73-BB45-E1067FB788D2", 40, 1455310978, "847580", 1455310978, "847580", null, "39", "306384014", "On Lok Senior Health Services", "Community Clinic", "Senior Health", [ "{\"address\":\"1000 MONTGOMERY STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.798467270000003", "-122.403855940000000", null, false ] ]
+, [ 41, "696DF318-6B5A-447D-9364-584327A2BA72", 41, 1455310978, "847580", 1455310978, "847580", null, "40", "306382724", "On Lok Senior Health Services - Bush St", "Community Clinic", "Senior Health", [ "{\"address\":\"1333 BUSH STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.788823129999997", "-122.419046370000000", null, false ] ]
+, [ 42, "415E28F6-EC4B-46B9-9FFA-99665D18A469", 42, 1455310978, "847580", 1455310978, "847580", null, "41", "306382725", "On Lok Senior Health Services - Powell", "Community Clinic", "Senior Health", [ "{\"address\":\"1441 POWELL STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.797883990000003", "-122.410372839999990", null, false ] ]
+, [ 43, "96DE153E-DF09-4FDB-8FDD-1CE12EA9F4BA", 43, 1455310978, "847580", 1455310978, "847580", null, "42", "306384163", "On Lok Senior Health Services-mission Center", "Community Clinic", "Senior Health", [ "{\"address\":\"4430 MISSION STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.726740139999997", "-122.433293710000000", null, false ] ]
+, [ 44, "409C7070-8167-4259-A1D6-8E70EF1C5A15", 44, 1455310978, "847580", 1455310978, "847580", null, "43", "306380924", "Planned Parenthood Golden Gate", "Community Clinic", "Family General Health", [ "{\"address\":\"815 EDDY STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.782763459999998", "-122.421545650000000", null, false ] ]
+, [ 45, "9402A74A-A204-441B-96C8-8DABF1B82643", 45, 1455310978, "847580", 1455310978, "847580", null, "44", "306384219", "Planned Parenthood San Francisco Center", "Community Clinic", "Family General Health", [ "{\"address\":\"1650 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.746118940000002", "-122.420123550000000", null, false ] ]
+, [ 46, "FE059A13-5283-4321-BE59-4C654DDA04CB", 46, 1455310978, "847580", 1455310978, "847580", null, "45", "306381330", "Richmond Maxi-center", "Community Clinic", "Cultural General Health", [ "{\"address\":\"3626 BALBOA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.775757140000003", "-122.497614170000010", null, false ] ]
+, [ 47, "337CE928-3307-47A0-A72E-0A6894841445", 47, 1455310978, "847580", 1455310978, "847580", null, "46", "306384025", "San Francisco Free Clinic", "Free Clinic", "Free General Health", [ "{\"address\":\"4900 CALIFORNIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.784587780000003", "-122.470090630000000", null, false ] ]
+, [ 48, "A7A64A26-C638-42FE-BAD1-EAC5AD244284", 48, 1455310978, "847580", 1455310978, "847580", null, "47", "306384221", "South Of Market Health Center", "Community Clinic", "General Health", [ "{\"address\":\"229 7TH STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.777660689999998", "-122.408886409999990", null, false ] ]
+, [ 49, "F42EE8F1-DEC9-4022-B36A-3394777DA628", 49, 1455310978, "847580", 1455310978, "847580", null, "48", "306384201", "St. Anthony Medical Clinic", "Free Clinic", "Free General Health", [ "{\"address\":\"150 GOLDEN GATE AVE\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.781977349999998", "-122.413172340000000", null, false ] ]
+, [ 50, "AEE93A45-117B-4EB7-B85A-7309987060DA", 50, 1455310978, "847580", 1455310978, "847580", null, "49", "306384174", "St. James Infirmary", "Community Clinic", "Sexual Health Clinic", [ "{\"address\":\"1372 MISSION ST.\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.775617779999997", "-122.415576779999990", null, false ] ]
+, [ 51, "F59C8819-DC20-4410-AC85-936E646C4D30", 51, 1455310978, "847580", 1455310978, "847580", null, "50", "306381339", "St. Luke's Health Care Center - Adult Clinic", "Community Clinic", "General Health", [ "{\"address\":\"1580 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.747567400000001", "-122.420233560000000", null, false ] ]
+, [ 52, "58C4E1A2-C913-4496-AED5-4B3BF4FE5DED", 52, 1455310978, "847580", 1455310978, "847580", null, "51", "306384208", "St. Luke's Health Care Center - Pediatric Clinic", "Community Clinic", "Youth Health", [ "{\"address\":\"1580 VALENCIA ST\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.747567400000001", "-122.420233560000000", null, false ] ]
+, [ 53, "A90FEC4B-C3AA-40DB-AC96-481C6815C7AF", 53, 1455310978, "847580", 1455310978, "847580", null, "52", "306384183", "St. Luke's Health Care Center - Women's Clinic", "Community Clinic", "Womens Health", [ "{\"address\":\"1580 VALENCIA STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.747567400000001", "-122.420233560000000", null, false ] ]
+, [ 54, "CF219F75-C44F-43B3-AE57-1A84F83DE25D", 54, 1455310978, "847580", 1455310978, "847580", null, "53", "306384211", "Asian & Pacific Islander Wellness Center", "Community Clinic", "Cultural General Health", [ "{\"address\":\"730 POLK STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.783586649999997", "-122.419190420000010", null, false ] ]
+, [ 55, "9256C0D7-72DC-45A9-B0F3-AA571BF96B84", 55, 1455310978, "847580", 1455310978, "847580", null, "54", "306384220", "Woman's Community Clinic/tides Center", "Community Clinic", "Womens Health", [ "{\"address\":\"1833 FILLMORE STREET\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.786524399999998", "-122.433383090000010", null, false ] ]
+, [ 56, "6E7FE5A3-947B-4DD7-80D0-0F9A6A257624", 56, 1455310978, "847580", 1455310978, "847580", null, "55", "0", "Castro-mission Health Center", "Community Health Network", " ", [ "{\"address\":\"3850 17th Street&Acirc;&nbsp;\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.762717719999998", "-122.431840670000000", null, false ] ]
+, [ 57, "D394541E-BF7A-4BDE-9278-D668EED34495", 57, 1455310978, "847580", 1455310978, "847580", null, "56", "0", "Children's Health Center At Sfgh", "Community Health Network", " ", [ "{\"address\":\"1001 Potrero Ave\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.755779510000004", "-122.406195659999990", null, false ] ]
+, [ 58, "98DC3E30-0DF5-4DE4-AC2D-0D80AD5E5F85", 58, 1455310978, "847580", 1455310978, "847580", null, "57", "0", "Chinatown Health Center", "Community Health Network", " ", [ "{\"address\":\"1490 Mason Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.796930619999998", "-122.411772220000000", null, false ] ]
+, [ 59, "1F8393BA-8F50-48CE-BA99-730C28E793C1", 59, 1455310978, "847580", 1455310978, "847580", null, "58", "0", "Family Health Center At Sfgh", "Community Health Network", " ", [ "{\"address\":\"995 Potrero Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.756903209999997", "-122.406631500000000", null, false ] ]
+, [ 60, "56E2F5C9-02D8-4767-A7B4-5B8188340EC2", 60, 1455310978, "847580", 1455310978, "847580", null, "59", "0", "General Medical Clinic At Sfgh", "Community Health Network", " ", [ "{\"address\":\"1001 Potrero Ave\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.755779510000004", "-122.406195659999990", null, false ] ]
+, [ 61, "2EE966F3-E286-450D-898D-50DA59A0F4E1", 61, 1455310978, "847580", 1455310978, "847580", null, "60", "0", "Maxine Hall Health Center", "Community Health Network", " ", [ "{\"address\":\"1301 Pierce Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.781937999999997", "-122.435869430000000", null, false ] ]
+, [ 62, "657FD543-D170-4347-9804-94B40AA41D49", 62, 1455310978, "847580", 1455310978, "847580", null, "61", "0", "Ocean Park Health Center", "Community Health Network", " ", [ "{\"address\":\"1351 24th Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.762380829999998", "-122.482494950000000", null, false ] ]
+, [ 63, "44C17958-77B3-4405-9997-6DDE334FABD5", 63, 1455310978, "847580", 1455310978, "847580", null, "62", "0", "Potrero Hill Health Center", "Community Health Network", " ", [ "{\"address\":\"1050 Wisconsin Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.754270689999998", "-122.398735280000000", null, false ] ]
+, [ 64, "5F1D76B3-E595-422D-A8BD-3210A6EBB45E", 64, 1455310978, "847580", 1455310978, "847580", null, "63", "0", "Silver Avenue Family Health Center", "Community Health Network", " ", [ "{\"address\":\"1525 Silver Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.732227440000003", "-122.406517460000000", null, false ] ]
+, [ 65, "2E53990E-CAAE-4449-BF70-7F179ACD382D", 65, 1455310978, "847580", 1455310978, "847580", null, "64", "0", "Southeast Health Center", "Community Health Network", " ", [ "{\"address\":\"2401 Keith Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.725910489999997", "-122.392466549999990", null, false ] ]
+, [ 66, "C27E3406-E148-4474-9DAA-316266E3B561", 66, 1455310978, "847580", 1455310978, "847580", null, "65", "0", "3rd Street Youth Center & Clinic", "Community Health Network", " ", [ "{\"address\":\"5190 3rd Street&Acirc;&nbsp;\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.730862049999999", "-122.392200700000000", null, false ] ]
+, [ 67, "CAF3EB0D-9D48-4E4B-A963-1F5A6F4C71AC", 67, 1455310978, "847580", 1455310978, "847580", null, "66", "0", "San Francisco City Clinic", "Community Health Network", " ", [ "{\"address\":\"356 7th Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.776044300000002", "-122.407029450000000", null, false ] ]
+, [ 68, "F49A2A24-BDAD-40AC-A9FE-8E318F952ED3", 68, 1455310978, "847580", 1455310978, "847580", null, "67", "0", "Adult Immunization & Travel Clinic", "Community Health Network", " ", [ "{\"address\":\"101 Grove St\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.778383720000001", "-122.418695720000000", null, false ] ]
+, [ 69, "8012D805-17CC-4243-9780-55A99D705800", 69, 1455310978, "847580", 1455310978, "847580", null, "68", "0", "Breast & Cervical Cancer Services", "Community Health Network", " ", [ "{\"address\":\"30 Van Ness Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.775877569999999", "-122.419355780000000", null, false ] ]
+, [ 70, "55353BBA-4C5B-40B2-9814-27963DDA9EE7", 70, 1455310978, "847580", 1455310978, "847580", null, "69", "0", "Housing And Urban Health Clinic", "Community Health Network", " ", [ "{\"address\":\"234 Eddy Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.784137850000000", "-122.411542479999990", null, false ] ]
+, [ 71, "CF5AACB3-9DA7-4410-85C1-8014DB048658", 71, 1455310978, "847580", 1455310978, "847580", null, "70", "0", "Tom Waddell Health Center", "Community Health Network", " ", [ "{\"address\":\"50 Lech Walesa\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.777978410000003", "-122.418539430000000", null, false ] ]
+, [ 72, "89883486-057D-4F1A-8435-8124FA1E302E", 72, 1455310978, "847580", 1455310978, "847580", null, "71", "0", "Women's Health Center", "Community Health Network", " ", [ "{\"address\":\"1001 Potrero Ave.\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.756174469999998", "-122.406594709999990", null, false ] ]
+, [ 73, "B1E3C2AE-965F-4D70-BA79-A0706FE6A047", 73, 1455310978, "847580", 1455310978, "847580", null, "72", "0", "Balboa Teen Health Center", "Community Health Network", " ", [ "{\"address\":\"1000 Cayuga Ave\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.722070479999999", "-122.439828830000000", null, false ] ]
+, [ 74, "4F7F2C81-FFDF-421F-8F6F-061D5EE224A1", 74, 1455310978, "847580", 1455310978, "847580", null, "73", "0", "Cole Street Clinic", "Community Health Network", " ", [ "{\"address\":\"555 Cole Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.769991930000003", "-122.450374000000000", null, false ] ]
+, [ 75, "78D746A3-8B56-4289-AB0E-1A63C05C0013", 75, 1455310978, "847580", 1455310978, "847580", null, "74", "0", "Larkin Street Medical Clinic", "Community Health Network", " ", [ "{\"address\":\"1138 Sutter St\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.787942240000000", "-122.419121800000000", null, false ] ]
+, [ 76, "42F2C35B-E1E0-48AF-9671-B924C1D36CE0", 76, 1455310978, "847580", 1455310978, "847580", null, "75", "0", "Special Programs For Youth", "Community Health Network", " ", [ "{\"address\":\"375 Woodside Avenue\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.745717030000002", "-122.452267080000000", null, false ] ]
+, [ 77, "9B9B80A0-E4A4-42C5-A195-F1F2E2C11B7F", 77, 1455310978, "847580", 1455310978, "847580", null, "76", "0", "Mission Neighborhood Health Centers-lpc", "Community Health Network", " ", [ "{\"address\":\"1663 Mission St\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.771258330000002", "-122.419488700000000", null, false ] ]
+, [ 78, "4BCD6941-FF68-47DF-84E3-FB38E8CDB889", 78, 1455310978, "847580", 1455310978, "847580", null, "77", "0", "North East Medical Services-taraval", "Community Health Network", " ", [ "{\"address\":\"2308 Taraval Street\",\"city\":\"San Francisco\",\"state\":\"CA\",\"zip\":\"\"}", "37.742408429999998", "-122.491040510000000", null, false ] ]
+ ]
+}
